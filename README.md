@@ -23,17 +23,10 @@ Estou em busca de oportunidades de estágio na área de tecnologia para adquirir
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img height="180em"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luansouza444&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luansouza444&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
+
 
 <div align="center">
 
